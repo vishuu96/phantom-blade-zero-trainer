@@ -1,0 +1,7 @@
+# Project-specific overrides
+*.md linguist-documentation
+*.html linguist-vendored
+* text=auto eol=lf
+
+docs/*.html linguist-vendored
+**/*.js linguist-detectable
