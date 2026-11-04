@@ -1,0 +1,4 @@
+.pnpm-store/
+.env
+coverage/
+npm-debug.log*
